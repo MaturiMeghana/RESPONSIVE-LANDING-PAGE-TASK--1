@@ -1,5 +1,5 @@
 # RESPONSIVE-LANDING-PAGE-TASK--1
- THANNK YOU #SkillCraftTechnology
+ THANK YOU #SkillCraftTechnology
 *internship*
 WED DEVELOPMENT
 *Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item .The navigation menu should have a fixed position and be visisble on all pages*
